@@ -17,9 +17,14 @@ Challenge 1B (challenge1b.cpp, dictionary.txt)
   * Input: 32156464
   * Output: gean 6464
   
+Compiling
+
+* As you have access to the following libraries, you should have no troubles compiling/executing any of this code:
+  * stdlib.h, stdio.h, assert.h, iostream,  map, fstream, string
+  
 Citations
 
-* The dictionary.txt file is actually the The UK Advanced Cryptics Dictionary by Ross Beresford. Copyright (c) J Ross Beresford 1993-2000. All Rights Reserved.
+* The dictionary.txt file is actually the The UK Advanced Cryptics Dictionary by Ross Beresford. The rest of the copyright information can be found in the "UKACD17_copyright_information.txt" file. Copyright (c) J Ross Beresford 1993-2000. All Rights Reserved.
 
         The following restriction is placed on the use of this
         publication: if The UK Advanced Cryptics Dictionary is used
